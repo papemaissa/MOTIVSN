@@ -1,0 +1,36 @@
+h3{
+	color:#EE2121;
+	text-decoration:underline;
+	text-indent:5em;
+	text-transform:capitalize;
+	height:80px;
+}
+body{
+	background-color:#FFFAFA;
+	padding:10px;
+	margin:5px;
+	border-style:solid;
+	border-width:10px;
+	border-color:black;
+	
+}
+a{
+	color:#FF1111;
+	border-width:10px;
+	
+	
+	
+	
+}
+footer{
+	font-size:50px;
+	color:red ;
+}
+p{
+	color:red;
+}
+
+
+	
+	
+
